@@ -15,5 +15,3 @@ except ZeroDivisionError:
     print('Division by zero is not allowed!')
 except TypeError:
      showTerror(TypeError(x,y))
-    
-    
